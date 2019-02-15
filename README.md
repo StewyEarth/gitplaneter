@@ -1,2 +1,2 @@
 # Planeter
-* Jupiter
+* Mercury
